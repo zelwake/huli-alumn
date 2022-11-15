@@ -7,17 +7,17 @@ LinkedIn: {link}
 
 Email: {link}
 
-## [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli)
+## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli)
 {project-name}: {link-to-repo}
 
-## [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
+## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/{username}
 
 Hackerrank: https://www.hackerrank.com/{username}
 
 Codewars: https://www.codewars.com/users/{username}
 
-## [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
+## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
 
 
