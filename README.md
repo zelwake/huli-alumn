@@ -1,8 +1,11 @@
-# {first-name} {last-name} - Huli
+# {first-name} {last-name}
 
-As you progress in Huli, you will get links (LeetCode account, Travel log app, ...), and these links belong here.
+Welcome to my page, my name is {name} and I'm a fresh alumni of Green Fox Academy. I'm specializing in {career-path} and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
-Fork this repo, fill in all the {} tags with your data, and have fun!
+## Hire me
+LinkedIn: {link}
+
+Email: {link}
 
 ## [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli)
 {project-name}: {link-to-repo}
@@ -17,6 +20,4 @@ Codewars: https://www.codewars.com/users/{username}
 ## [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
 
-## Hire me
-LinkedIn: {link}
-Email: {link}
+
