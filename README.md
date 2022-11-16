@@ -7,7 +7,7 @@ LinkedIn: {link}
 
 Email: {link}
 
-## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli)
+## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
