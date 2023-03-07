@@ -8,7 +8,7 @@ LinkedIn: https://www.linkedin.com/in/michal-hlad%C3%ADk-1a484b247/
 Email: michalhladik2@seznam.cz
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+StreetLaw: https://github.com/zelwake/streetlaw
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/zelwake
