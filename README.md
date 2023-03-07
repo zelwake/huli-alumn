@@ -11,11 +11,11 @@ Email: michalhladik2@seznam.cz
 {project-name}: {link-to-repo}
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/zelwake
 
-Hackerrank: https://www.hackerrank.com/{username}
+Hackerrank: https://www.hackerrank.com/michalhladik2
 
-Codewars: https://www.codewars.com/users/{username}
+Codewars: https://www.codewars.com/users/zelwake
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
